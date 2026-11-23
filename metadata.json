@@ -1,0 +1,6 @@
+{
+  "name": "AURA MAX — Contemporary Luxury Fashion",
+  "description": "AURA MAX is a futuristic luxury fashion house offering architectural menswear, womenswear, luxury streetwear, and timeless essentials. OWN YOUR AURA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
